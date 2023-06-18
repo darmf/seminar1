@@ -1,0 +1,15 @@
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/homework2.csproj.AssemblyReference.cache
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/homework2.AssemblyInfoInputs.cache
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/homework2.AssemblyInfo.cs
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/homework2.csproj.CoreCompileInputs.cache
+/Users/MacBook/Desktop/seminar1/homework2/bin/Debug/net7.0/homework2
+/Users/MacBook/Desktop/seminar1/homework2/bin/Debug/net7.0/homework2.deps.json
+/Users/MacBook/Desktop/seminar1/homework2/bin/Debug/net7.0/homework2.runtimeconfig.json
+/Users/MacBook/Desktop/seminar1/homework2/bin/Debug/net7.0/homework2.dll
+/Users/MacBook/Desktop/seminar1/homework2/bin/Debug/net7.0/homework2.pdb
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/homework2.dll
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/refint/homework2.dll
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/homework2.pdb
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/homework2.genruntimeconfig.cache
+/Users/MacBook/Desktop/seminar1/homework2/obj/Debug/net7.0/ref/homework2.dll
